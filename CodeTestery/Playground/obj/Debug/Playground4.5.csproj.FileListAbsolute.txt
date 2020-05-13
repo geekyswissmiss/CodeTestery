@@ -1,0 +1,7 @@
+C:\Users\sylvia\source\repos\CodeTestery\Playground\bin\Debug\Playground.exe.config
+C:\Users\sylvia\source\repos\CodeTestery\Playground\bin\Debug\Playground.exe
+C:\Users\sylvia\source\repos\CodeTestery\Playground\bin\Debug\Playground.pdb
+C:\Users\sylvia\source\repos\CodeTestery\Playground\obj\Debug\Playground4.5.csprojAssemblyReference.cache
+C:\Users\sylvia\source\repos\CodeTestery\Playground\obj\Debug\Playground4.5.csproj.CoreCompileInputs.cache
+C:\Users\sylvia\source\repos\CodeTestery\Playground\obj\Debug\Playground.exe
+C:\Users\sylvia\source\repos\CodeTestery\Playground\obj\Debug\Playground.pdb
