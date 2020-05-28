@@ -3903,11 +3903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
       "projectName": "CodeTestery.Tests",
-      "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
+      "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
       "packagesPath": "C:\\Users\\sylvia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\obj\\",
+      "outputPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3928,14 +3928,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\Playground\\Playground4.5.csproj": {
-              "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\Playground\\Playground4.5.csproj"
+            "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\Playground\\Playground4.5.csproj": {
+              "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\Playground\\Playground4.5.csproj"
             },
-            "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj": {
-              "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj"
+            "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj": {
+              "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj"
             },
-            "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj": {
-              "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj"
+            "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj": {
+              "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj"
             }
           }
         }

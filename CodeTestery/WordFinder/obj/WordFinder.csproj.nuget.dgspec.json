@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj": {}
+    "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj": {
+    "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj",
+        "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj",
         "projectName": "WordFinder",
-        "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj",
+        "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj",
         "packagesPath": "C:\\Users\\sylvia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\obj\\",
+        "outputPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

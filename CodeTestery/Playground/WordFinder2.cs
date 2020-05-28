@@ -9,12 +9,12 @@ namespace Playground
 {
     public class WordFinder2
     {
-        static void Main(string[] args)
-        {
-            string jumble = "BALLOONBALLOONABCHDKNOGNSLSJCJBH";
-            WordFinder2 wf = new WordFinder2();
-            int count = wf.CountBALLOON(jumble);
-        }
+        //static void Main(string[] args)
+        //{
+        //    string jumble = "BALLOONBALLOONABCHDKNOGNSLSJCJBH";
+        //    WordFinder2 wf = new WordFinder2();
+        //    int count = wf.CountBALLOON(jumble);
+        //}
 
         //counts the number of times word can be found in puzzle
         //iterates letter-by-letter

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JAIRyArvCEOiZzuYJbcbKxHL+vDa85agVHtoApfWhUuLPcK5+raQcIon4KJcw16IqYF0NAxP+z8KYLRWMFTCEA==",
+  "dgSpecHash": "O+JfBlsnbOQaEnfpgHctU5hWvQpobbVlYCK+kNH11jOkIfqQcrCsIoFvgvGNfytLeB6hMTHwqK8a2UKs33lreA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
+  "projectFilePath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sylvia\\.nuget\\packages\\deemtestfixture\\0.1.4\\deemtestfixture.0.1.4.nupkg.sha512",
     "C:\\Users\\sylvia\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

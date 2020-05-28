@@ -1,0 +1,13 @@
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\obj\Debug\netcoreapp3.1\SkillsRefresher.csproj.CoreCompileInputs.cache
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\obj\Debug\netcoreapp3.1\SkillsRefresher.AssemblyInfoInputs.cache
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\obj\Debug\netcoreapp3.1\SkillsRefresher.AssemblyInfo.cs
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\bin\Debug\netcoreapp3.1\SkillsRefresher.exe
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\bin\Debug\netcoreapp3.1\SkillsRefresher.deps.json
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\bin\Debug\netcoreapp3.1\SkillsRefresher.runtimeconfig.json
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\bin\Debug\netcoreapp3.1\SkillsRefresher.runtimeconfig.dev.json
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\bin\Debug\netcoreapp3.1\SkillsRefresher.dll
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\bin\Debug\netcoreapp3.1\SkillsRefresher.pdb
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\obj\Debug\netcoreapp3.1\SkillsRefresher.dll
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\obj\Debug\netcoreapp3.1\SkillsRefresher.pdb
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\obj\Debug\netcoreapp3.1\SkillsRefresher.genruntimeconfig.cache
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\SkillsRefresher\obj\Debug\netcoreapp3.1\SkillsRefresher.csprojAssemblyReference.cache

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj",
+      "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj",
       "projectName": "WordCalc",
-      "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj",
+      "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj",
       "packagesPath": "C:\\Users\\sylvia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\obj\\",
+      "outputPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

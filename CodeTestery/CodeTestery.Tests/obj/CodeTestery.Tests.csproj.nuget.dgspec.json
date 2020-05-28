@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj": {}
+    "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj": {
+    "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
         "projectName": "CodeTestery.Tests",
-        "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
+        "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\CodeTestery.Tests.csproj",
         "packagesPath": "C:\\Users\\sylvia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\CodeTestery.Tests\\obj\\",
+        "outputPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\CodeTestery.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,14 +32,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\Playground\\Playground4.5.csproj": {
-                "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\Playground\\Playground4.5.csproj"
+              "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\Playground\\Playground4.5.csproj": {
+                "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\Playground\\Playground4.5.csproj"
               },
-              "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj": {
-                "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj"
+              "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj": {
+                "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj"
               },
-              "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj": {
-                "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj"
+              "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj": {
+                "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj"
               }
             }
           }
@@ -87,25 +87,25 @@
         }
       }
     },
-    "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\Playground\\Playground4.5.csproj": {
+    "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\Playground\\Playground4.5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\Playground\\Playground4.5.csproj",
+        "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\Playground\\Playground4.5.csproj",
         "projectName": "Playground4.5",
-        "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\Playground\\Playground4.5.csproj"
+        "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\Playground\\Playground4.5.csproj"
       },
       "frameworks": {
         "net45": {}
       }
     },
-    "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj": {
+    "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj",
+        "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj",
         "projectName": "WordCalc",
-        "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\WordCalc.csproj",
+        "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\WordCalc.csproj",
         "packagesPath": "C:\\Users\\sylvia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordCalc\\obj\\",
+        "outputPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj": {
+    "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj",
+        "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj",
         "projectName": "WordFinder",
-        "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\WordFinder.csproj",
+        "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\WordFinder.csproj",
         "packagesPath": "C:\\Users\\sylvia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\WordFinder\\obj\\",
+        "outputPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\WordFinder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -16,3 +16,12 @@ C:\Users\sylvia\source\repos\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\Word
 C:\Users\sylvia\source\repos\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.AssemblyInfo.cs
 C:\Users\sylvia\source\repos\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.dll
 C:\Users\sylvia\source\repos\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.pdb
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.deps.json
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.dll
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.pdb
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.csproj.CoreCompileInputs.cache
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.AssemblyInfoInputs.cache
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.AssemblyInfo.cs
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.dll
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.pdb
+C:\Users\sylvia\Source\Repos\geekyswissmiss\CodeTestery\CodeTestery\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.csprojAssemblyReference.cache

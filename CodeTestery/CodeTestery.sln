@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTMLAnalyzer", "HTMLAnalyze
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground4.5", "Playground\Playground4.5.csproj", "{09347C93-05C2-4D36-B6A6-2121521F214A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsRefresher", "SkillsRefresher\SkillsRefresher.csproj", "{75069868-7623-4F9E-B8FA-F6169B42D2BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,26 @@ Global
 		{09347C93-05C2-4D36-B6A6-2121521F214A}.Release|x64.Build.0 = Release|Any CPU
 		{09347C93-05C2-4D36-B6A6-2121521F214A}.Release|x86.ActiveCfg = Release|Any CPU
 		{09347C93-05C2-4D36-B6A6-2121521F214A}.Release|x86.Build.0 = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|ARM.Build.0 = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|x64.Build.0 = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Debug|x86.Build.0 = Debug|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|ARM.ActiveCfg = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|ARM.Build.0 = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|ARM64.Build.0 = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|x64.Build.0 = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{75069868-7623-4F9E-B8FA-F6169B42D2BA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

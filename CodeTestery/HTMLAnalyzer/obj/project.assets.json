@@ -3330,11 +3330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\HTMLAnalyzer\\HTMLAnalyzer.csproj",
+      "projectUniqueName": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\HTMLAnalyzer\\HTMLAnalyzer.csproj",
       "projectName": "HTMLAnalyzer",
-      "projectPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\HTMLAnalyzer\\HTMLAnalyzer.csproj",
+      "projectPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\HTMLAnalyzer\\HTMLAnalyzer.csproj",
       "packagesPath": "C:\\Users\\sylvia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sylvia\\source\\repos\\CodeTestery\\HTMLAnalyzer\\obj\\",
+      "outputPath": "C:\\Users\\sylvia\\Source\\Repos\\geekyswissmiss\\CodeTestery\\CodeTestery\\HTMLAnalyzer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
